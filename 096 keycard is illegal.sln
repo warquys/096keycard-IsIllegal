@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E458D361-C9FF-496C-9067-DF773962375F}") = "096 keycard is illegal", "096 keycard is illegal.csproj", "{69DD4E24-6EEA-4E22-82C3-DFCBF5A239DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DD4E24-6EEA-4E22-82C3-DFCBF5A239DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DD4E24-6EEA-4E22-82C3-DFCBF5A239DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DD4E24-6EEA-4E22-82C3-DFCBF5A239DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DD4E24-6EEA-4E22-82C3-DFCBF5A239DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F6A8125-D365-4C78-B0D9-9BB73F1966D7}
+	EndGlobalSection
+EndGlobal
